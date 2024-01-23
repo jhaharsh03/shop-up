@@ -90,6 +90,7 @@ const Hero = ({ handleOrderPopup }) => {
                         text="Shop By Category"
                         bgColor="bg-primary"
                         textColor="text-white"
+                        handler={handleOrderPopup}
                       />
                     </div>
                   </div>
